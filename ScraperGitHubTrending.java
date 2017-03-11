@@ -37,7 +37,7 @@ public class ScraperGitHubTrending {
 			"Python"
 	};
 	// 目录名
-	private static final String FILE_HOME_DIR = "f://";
+	private static final String FILE_HOME_DIR = "f:" + File.separator;
 	// Http请求头部
 	private static final List<BasicHeader> HEADERS = new ArrayList<>();
 
