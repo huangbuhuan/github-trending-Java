@@ -1,4 +1,5 @@
 # github-trending-Java
+爬取Github上每日热门项目，并生成MarkDown文件
 
 需要添加的依赖
 
